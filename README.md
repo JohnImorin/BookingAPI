@@ -7,27 +7,19 @@ A backend REST API for managing car bookings and customer reservations.
 - Full CRUD operations for bookings
 - Customer and vehicle management
 - RESTful API design patterns
-- PostgreSQL database integration
+- In-memory data storage with HashMap
 - Error handling and input validation
 - Clean architecture (Entity, Repository, Service, Controller)
 
 ## Tech Stack
 
-Java | Spring Boot | PostgreSQL | JPA/Hibernate | REST API
+Java | Spring Boot | REST API | HashMap (in-memory storage)
 
 ## Getting Started
 
 ```bash
 git clone https://github.com/JohnImorin/BookingAPI.git
 cd BookingAPI
-```
-
-Configure `application.properties`:
-```properties
-spring.datasource.url=jdbc:postgresql://your-host/booking_db
-spring.datasource.username=your_username
-spring.datasource.password=your_password
-spring.jpa.hibernate.ddl-auto=update
 ```
 
 Run:
@@ -50,4 +42,4 @@ API runs on `http://localhost:8080`
 ## Author
 
 John Fabrice Imorin | CS Graduate | Junior Backend Developer  
-📧 johnsteiner900@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/john-fabrice-imorin-526a4722b)
+📧 johnsteiner900@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/john-fabrice-imorin-526a4722b)
