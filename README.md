@@ -42,4 +42,4 @@ API runs on `http://localhost:8080`
 ## Author
 
 John Fabrice Imorin | CS Graduate | Junior Backend Developer  
-📧 johnsteiner900@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/john-fabrice-imorin-526a4722b)
+📧 johnsteiner900@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/john-fabrice-imorin-526a4722b)
